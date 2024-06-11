@@ -11,14 +11,11 @@
             "id": "127df54205b069d3",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Guidebook.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 93,
-                  "zoom": 0
-                }
+                "file": "01. Source Material/In the Flesh/Dump.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -106,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Thought Logs/Dump.md",
+                "file": "01. Source Material/In the Flesh/Dump.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Thought Logs/Dump.md",
+                "file": "01. Source Material/In the Flesh/Dump.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Thought Logs/Dump.md"
+                "file": "01. Source Material/In the Flesh/Dump.md"
               }
             }
           }
@@ -169,14 +166,20 @@
   },
   "active": "fba11e9f3793f74e",
   "lastOpenFiles": [
+    "01. Source Material/In the Flesh",
+    "01. Source Material/In the Chipset/Dump.md",
+    "01. Source Material/In the Flesh/Dump.md",
+    "01. Source Material/In the Chipset",
+    "00. Fleeting Notes/In the Flesh/Dump.md",
+    "Guidebook.canvas",
+    "00. Fleeting Notes/In the Flesh",
+    "00. Fleeting Notes/In the Chipset",
     "05. Zettelkasten/Dump.md",
     "Thought Logs/Dump.md",
     "04. Templates/Dump.md",
     "03. Indexes/Dump.md",
     "02. Tags/Dump.md",
-    "01. Source Material/Dump.md",
-    "00. Rough Notes/Dump.md",
-    "Guidebook.canvas",
+    "00. Fleeting Notes/In the Chipset/Dump.md",
     "Welcome.md",
     "Thought Logs",
     "05. Zettelkasten",
@@ -184,6 +187,6 @@
     "03. Indexes",
     "02. Tags",
     "01. Source Material",
-    "00. Rough Notes"
+    "00. Fleeting Notes"
   ]
 }
